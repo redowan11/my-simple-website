@@ -1,0 +1,6 @@
+div,p,h1{
+    background-color: tomato;
+    /* font-size: 20px; */
+    padding: 20px;
+    text-align: center;
+}
